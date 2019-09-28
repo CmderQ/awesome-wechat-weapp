@@ -69,6 +69,8 @@
 - [Anka](https://iexception.github.io/anka-doc/book/index.html) - 渐进式小程序开发工具集，提供通用的开发函数库及组件
 - [WeAppBunXin](https://github.com/BakerJQ/WeAppBunXin) - 微信小程序开发之影分身术，一套代码生成多个小程序
 - [miniprogram-build](https://github.com/NewFuture/miniprogram-build) - 小程序命令行编译工具(支持typescript,原生npm,资源文件压缩...)
+- [wcc.js](https://github.com/caijw/wcc.js) - wcc.js 是wxml文件和wxs文件编译器的nodejs实现
+- [wcsc.js](https://github.com/caijw/wcsc.js) - wcsc.js 是wxss文件编译器的nodejs实现
 
 [↑ 返回目录 ↑](#目录)
 
@@ -141,6 +143,7 @@
 - [miniprogram-network](https://github.com/NewFuture/miniprogram-network) - Redefine the Network API of MiniProgram(小程序网络请求库)
 - [we-validator](https://github.com/ChanceYu/we-validator) - 简单灵活的表单验证插件，支持小程序、浏览器以及Nodejs端使用。
 - [wx-pulltorefresh-view](https://github.com/zhongxuqi/wx-pulltorefresh-view) - 简单灵活的下拉上拉刷新组件，支持微信小程序
+- [sol-weapp](https://github.com/sunnie1992/sol-weapp/) -微信小程序营销组件:红包雨、大转盘等营销组件
 
 [↑ 返回目录 ↑](#目录)
 
@@ -187,6 +190,7 @@
 - [vace/wechatapp-news-reader ★100+](https://github.com/vace/wechatapp-news-reader) - 新闻阅读器
 - [yaoshanliang/weapp-ssha ★100+](https://github.com/yaoshanliang/weapp-ssha) - 企业宣传小程序
 - [yaoshanliang/weapp-jump ★100+](https://github.com/yaoshanliang/weapp-jump) - 跳一跳
+- [yaoshanliang/weapp-monument-valley ★100+](https://github.com/yaoshanliang/weapp-monument-valley) - 纪念碑谷
 - [Symous/WechatApp-BaisiSister](https://github.com/Symous/WechatApp-BaisiSister) - 百思不得姐
 - [githinkcn/Giteer](https://github.com/githinkcn/Giteer) - Giteer For 码云，基于Taro + Taro UI + Dva的小程序。
 - [DengKe1994/weapp-calculator](https://github.com/DengKe1994/weapp-calculator) - IOS 计算器
@@ -206,7 +210,6 @@
 - [bodekjan/wechat-weather](https://github.com/bodekjan/wechat-weather) - 微信天气
 - [jasscia/ChristmasHat](https://github.com/jasscia/ChristmasHat) - 我要圣诞帽
 - [nanwangjkl/sliding_puzzle](https://github.com/nanwangjkl/sliding_puzzle) - 滑块拼图
-- [yaoshanliang/weapp-monument-valley](https://github.com/yaoshanliang/weapp-monument-valley) - 纪念碑谷
 - [kaiwu/weui-scalajs](https://github.com/kaiwu/weui-scalajs) - 使用Scala.js开发
 - [tinajs/tina-hackernews](https://github.com/tinajs/tina-hackernews) - Hacker News 热点
 - [mohuishou/scuplus-wechat](https://github.com/mohuishou/scuplus-wechat) - We 川大
@@ -220,7 +223,7 @@
 - [wuhou123/wxxcx](https://github.com/wuhou123/wxxcx) - 武侯的猫，基于wepy构建,整合了n多查询工具（快递，天气，记账，搞笑视频等）
 - [upupming/HITMers](https://github.com/upupming/HITMers) - 博物馆小助手（统计值班表、签到、值班日历及备忘录、国际化、Streamable.com 视频上传等）
 - [LDouble/WeOUC](https://github.com/LDouble/WeOUC) - WeOUC(教务小程序)
-- [tclyjy/handwriting-weapp](https://github.com/tclyjy/handwriting-weapp) - 微信小程序Canvas手写板（可用于采集用户签名，自定义字体颜色，笔画真实）
+- [Airmole/ShellBox](https://github.com/Airmole/ShellBox) - 贝壳小盒子（校园教务信息查询类工具，获2019高校小程序开发大赛华北区二等奖）
 - [aquanlerou/WeHalo ★200+](https://github.com/aquanlerou/WeHalo) - 爱敲代码的猫（WeHalo 简约风 的微信小程序版博客✨）
 - [WarpPrism/SubwayRoutineMP](https://github.com/WarpPrism/SubwayRoutineMP) - 【东京首尔曼谷新加坡巴黎地铁线路图🚄】
 - [GoKu-gaga/today](https://github.com/GoKu-gaga/today) - 口袋工具（一个小工具的集合）
