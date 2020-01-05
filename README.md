@@ -39,6 +39,7 @@
 - [WePY ★18k+](https://github.com/Tencent/wepy) -  支持组件化的小程序开发框架
 - [mpvue ★17k+](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
 - [Taro ★19k+](https://github.com/NervJS/taro) - 使用 React 的方式开发小程序的框架，同时支持生成多端应用
+- [uni-app ★13k+](https://github.com/dcloudio/uni-app) - 使用 Vue 语法开发小程序、H5、App的统一框架
 - [chameleon ★5k+](https://github.com/didi/chameleon) - 一套代码运行多端，一端所见即多端所见
 - [megalo ★1.3k](https://github.com/kaola-fed/megalo) - 基于 Vue 的小程序开发框架
 - [MPX ★1k+](https://github.com/didi/mpx) - 增强型小程序框架，深度性能优化，支持跨小程序平台开发，完全兼容原生小程序组件
@@ -46,7 +47,9 @@
 - [wept ★2.1k](https://github.com/chemzqm/wept) - 微信小程序实时运行环境
 - [wafer ★2k](https://github.com/tencentyun/wafer) - 快速构建具备弹性能力的微信小程序
 - [licia ★1.1k](https://github.com/liriliri/licia) - 支持小程序的 JS 工具库
+- [Remax ★1k+](https://github.com/remaxjs/remax) -  使用真正的 React 构建小程序
 - [wechat_web_devtools ★600+](https://github.com/cytle/wechat_web_devtools) -  Linux 下微信开发者工具
+- [kbone ★600+](https://github.com/wechat-miniprogram/kbone) - Web 与小程序同构解决方案
 - [minapp ★400+](https://github.com/qiu8310/minapp) - TypeScript 版小程序开发框架（兼容原生小程序代码）
 - [tina ★300+](https://github.com/tinajs/tina) - 轻巧的渐进式微信小程序框架
 - [Okam ★200+](https://github.com/ecomfe/okam) - 使用类 Vue 方式开发小程序的渐进增强框架，支持生成微信/百度等主流平台的小程序
@@ -71,6 +74,7 @@
 - [miniprogram-build](https://github.com/NewFuture/miniprogram-build) - 小程序命令行编译工具(支持typescript,原生npm,资源文件压缩...)
 - [wcc.js](https://github.com/caijw/wcc.js) - wcc.js 是wxml文件和wxs文件编译器的nodejs实现
 - [wcsc.js](https://github.com/caijw/wcsc.js) - wcsc.js 是wxss文件编译器的nodejs实现
+- [weapp-gulp](https://github.com/sunnie1992/weapp-gulp) - Gulp高效构建微信小程序，让开发变得更简单
 
 [↑ 返回目录 ↑](#目录)
 
@@ -86,6 +90,9 @@
 - [WePY Plugin For IntelliJ Platform](http://wepy.iniself.com) - 让PhpStorm/WebStorm全面支持WePY的开发，包括API(原生/WePY)和组件(官方/自定义)的自动完成/错误检查/高亮/不依赖Vue/...
 - [wxml](https://github.com/cnyballk/wxml-vscode) - vscode插件--微信小程序格式化以及高亮组件(高度自定义)
 - [vim-vue-plugin](https://github.com/leafOfTree/vim-vue-plugin) - vim 插件，.vue 和 .wpy 文件的语法高亮和缩进
+- [wux-weapp-snippets](https://github.com/wux-weapp/wux-weapp-snippets) - Wux Weapp Snippets for VS Code.
+- [wux-weapp-atom-snippets](https://github.com/wux-weapp/wux-weapp-atom-snippets) - Wux Weapp Snippets for Atom.
+- [wux-weapp-sublime-snippets](https://github.com/wux-weapp/wux-weapp-sublime-snippets) - Wux Weapp Snippets Plugin for Sublime Text 2/3.
 
 [↑ 返回目录 ↑](#目录)
 
@@ -93,9 +100,10 @@
 
 - [weui-wxss ★8K+](https://github.com/Tencent/weui-wxss) - 同微信原生视觉体验一致的基础样式库
 - [vant-weapp ★7k+](https://github.com/youzan/vant-weapp) - 高颜值、好用、易扩展的微信小程序 UI 库
+- [iview-weapp ★5.2k+](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库
 - [wxParse ★5.1K+](https://github.com/icindy/wxParse) - 微信小程序富文本解析自定义组件，支持 HTML 及 markdown 解析
+- [wux-weapp ★4k+](https://github.com/wux-weapp/wux-weapp) - 一套组件化、可复用、易扩展的微信小程序 UI 组件库
 - [wx-charts ★2.9k+](https://github.com/xiaolin3303/wx-charts) - 微信小程序图表 charts 组件
-- [wux ★1000+](https://github.com/skyvow/wux) - 微信小程序自定义组件
 - [wemark ★400+](https://github.com/TooBug/wemark) - 微信小程序 Markdown 渲染库
 - [wxapp-img-loader ★400+](https://github.com/o2team/wxapp-img-loader) - 微信小程序图片预加载组件
 - [we-cropper ★400+](https://github.com/we-plugin/we-cropper) -  微信小程序图片裁剪工具
@@ -143,7 +151,7 @@
 - [miniprogram-network](https://github.com/NewFuture/miniprogram-network) - Redefine the Network API of MiniProgram(小程序网络请求库)
 - [we-validator](https://github.com/ChanceYu/we-validator) - 简单灵活的表单验证插件，支持小程序、浏览器以及Nodejs端使用。
 - [wx-pulltorefresh-view](https://github.com/zhongxuqi/wx-pulltorefresh-view) - 简单灵活的下拉上拉刷新组件，支持微信小程序
-- [sol-weapp](https://github.com/sunnie1992/sol-weapp/) -微信小程序营销组件:红包雨、大转盘等营销组件
+- [sol-weapp ★100+](https://github.com/sunnie1992/sol-weapp/) -微信小程序营销组件:红包雨、大转盘等营销组件
 
 [↑ 返回目录 ↑](#目录)
 
@@ -170,6 +178,7 @@
 - [eyasliu/wechat-app-music ★200+](https://github.com/eyasliu/wechat-app-music) - 音乐播放器
 - [ahonn/weapp-one ★200+](https://github.com/ahonn/weapp-one) - 仿 ONE
 - [giscafer/wechat-weapp-mapdemo ★200+](https://github.com/giscafer/wechat-weapp-mapdemo) - 地图导航、marker标注 （不再维护）
+- [yaoshanliang/weapp-ssha ★200+](https://github.com/yaoshanliang/weapp-ssha) - 企业宣传小程序
 - [hilongjw/weapp-gold ★100+](https://github.com/hilongjw/weapp-gold) - 掘金主页信息流
 - [zce/weapp-douban ★100+](https://github.com/zce/weapp-douban) - 豆瓣电影
 - [hingsir/weapp-douban-film ★100+](https://github.com/hingsir/weapp-douban-film) - 豆瓣电影
@@ -188,7 +197,6 @@
 - [romoo/weapp-demo-breadtrip ★100+](https://github.com/romoo/weapp-demo-breadtrip) - 面包旅行
 - [zhuweiyou/fetop100 ★100+](https://github.com/zhuweiyou/fetop100) - 前端TOP100
 - [vace/wechatapp-news-reader ★100+](https://github.com/vace/wechatapp-news-reader) - 新闻阅读器
-- [yaoshanliang/weapp-ssha ★100+](https://github.com/yaoshanliang/weapp-ssha) - 企业宣传小程序
 - [yaoshanliang/weapp-jump ★100+](https://github.com/yaoshanliang/weapp-jump) - 跳一跳
 - [yaoshanliang/weapp-monument-valley ★100+](https://github.com/yaoshanliang/weapp-monument-valley) - 纪念碑谷
 - [Symous/WechatApp-BaisiSister](https://github.com/Symous/WechatApp-BaisiSister) - 百思不得姐
@@ -235,5 +243,6 @@
 - [NewFuture/miniprogram-template](https://github.com/NewFuture/miniprogram-template) - 原生API纯TypeScript开发小程序(VSCode as IDE)与完整开发流程
 - [ZhuPeng/mp-githubtrending](https://github.com/ZhuPeng/mp-githubtrending) - 以 Feed 流形式查看 GitHub Trending 仓库集合的工具
 - [yociduo/scrum-planning-poker](https://github.com/yociduo/scrum-planning-poker) - Scrum敏捷估算,基于wepy构建
-
+- [lsqy/taro-music](https://github.com/lsqy/taro-music) - 🎉基于taro + taro-ui + redux + typescript 开发的网易云音乐小程序
+- [仿喜马拉雅lite](https://github.com/Notobey/Himalayan-lite) - 微信小程序原生开发的仿喜马拉雅小程序（极度适合新手入门）
 [↑ 返回目录 ↑](#目录)
